@@ -1,0 +1,20 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Özgür Reisle Çay İçme",
+        "start": "2025-03-15T10:00:00",
+        "end": "2025-03-15T11:00:00",
+        "description": "Özgür Reisle Çay İçme",
+        "color": "blue"
+      },
+      {
+        "id": 2,
+        "title": "Özgür Reise proje sunumu",
+        "start": "2025-03-20T14:00:00",
+        "end": "2025-03-20T16:00:00",
+        "description": "Özgür Reise proje sunumu",
+        "color": "green"
+      }
+    ]
+  }
